@@ -8,7 +8,8 @@
 
 ## Picture
 
-
+![car](https://raw.githubusercontent.com/lyletang/Huawei_LiteOS/master/github-picture/car.jpg)
+![output](https://raw.githubusercontent.com/lyletang/Huawei_LiteOS/master/github-picture/output.jpg)
 ![pic2](https://raw.githubusercontent.com/lyletang/Huawei_LiteOS/master/github-picture/pic2.jpg)
 ![pic3](https://raw.githubusercontent.com/lyletang/Huawei_LiteOS/master/github-picture/pic3.jpg)
 ![team](https://raw.githubusercontent.com/lyletang/Huawei_LiteOS/master/github-picture/team.jpg)
